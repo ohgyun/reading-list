@@ -26,6 +26,7 @@
 [열혈 TCP/IP 소켓 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=6190577)  
 [HTML5 Canvas](http://book.naver.com/bookdb/book_detail.nhn?bid=6806523)  
 [실용주의 디버깅](http://book.naver.com/bookdb/book_detail.nhn?bid=6298411)  
+[패턴을 활용한 리팩터링](http://book.naver.com/bookdb/book_detail.nhn?bid=6471623)  
 [자바 세상의 빌드를 이끄는 메이븐](http://book.naver.com/bookdb/book_detail.nhn?bid=6600936)  
 [MongoDB 완벽 가이드](http://book.naver.com/bookdb/book_detail.nhn?bid=6645938)  
 [레거시 코드 활용 전략](http://book.naver.com/bookdb/book_detail.nhn?bid=4914383)  
