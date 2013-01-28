@@ -41,7 +41,7 @@
 [똑바로 일하라](http://book.naver.com/bookdb/book_detail.nhn?bid=6461746) (2011.12)  
 [JavaScript Patterns](http://book.naver.com/bookdb/book_detail.nhn?bid=6618965) (2011.09)  
 [UML 실전에서는 이것만 쓴다](http://book.naver.com/bookdb/book_detail.nhn?bid=6439362) (2011.03)  
-[High Performance JavaScript](http://book.naver.com/bookdb/book_detail.nhn?bid=6683307) (2010.12)
+[High Performance JavaScript](http://book.naver.com/bookdb/book_detail.nhn?bid=6683307) (2010.12)  
 [스티브 크룩의 사용성 평가 이렇게 하라](http://book.naver.com/bookdb/book_detail.nhn?bid=6377099) (2010.12)  
 [초고속 웹사이트 구축](http://book.naver.com/bookdb/book_detail.nhn?bid=6259017) (2010.10)  
 [자바스크립트 완벽가이드](http://book.naver.com/bookdb/book_detail.nhn?bid=4561033) (2010.06)  
