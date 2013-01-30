@@ -48,6 +48,7 @@
 [Emotional Design](http://book.naver.com/bookdb/book_detail.nhn?bid=1668931)  
 [Why We Buy](http://book.naver.com/bookdb/book_detail.nhn?bid=5322457)  
 [자바 세상의 빌드를 이끄는 메이븐](http://book.naver.com/bookdb/book_detail.nhn?bid=6600936)  
+[뇌를 자극하는 프로그래밍 원리](http://book.naver.com/bookdb/book_detail.nhn?bid=3084646)  
 
 
 ## 읽은 책 (날짜 순)
