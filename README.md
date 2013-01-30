@@ -26,6 +26,7 @@
 
 ## 읽을 책 (우선순위 순!)
 
+[프로그래머로 사는 법](http://book.naver.com/bookdb/book_detail.nhn?bid=7010768)  
 [켄트벡의 구현패턴](http://book.naver.com/bookdb/book_detail.nhn?bid=4392142)  
 [패턴을 활용한 리팩터링](http://book.naver.com/bookdb/book_detail.nhn?bid=6471623)  
 [레거시 코드 활용 전략](http://book.naver.com/bookdb/book_detail.nhn?bid=4914383)  
