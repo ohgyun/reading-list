@@ -16,12 +16,12 @@
 
 [xUnit 테스트 패턴](http://book.naver.com/bookdb/book_detail.nhn?bid=6241917)  
 [C언어로 배우는 알고리즘 입문](http://book.naver.com/bookdb/book_detail.nhn?bid=1478608)  
-[토비의 스프링 3](http://book.naver.com/bookdb/book_detail.nhn?bid=6330335) (2010.10~)  
 [웹개발자를 위한 웹을 지탱하는 기술](http://book.naver.com/bookdb/book_detail.nhn?bid=6646793)  
+[능률적인 프로그래머](http://book.naver.com/bookdb/book_detail.nhn?bid=6082175)  
 [HTTP: The Definitive Guide](http://book.naver.com/bookdb/book_detail.nhn?bid=994839)  
 [프로그래밍 루비](http://book.naver.com/bookdb/book_detail.nhn?bid=2625527)  
-[능률적인 프로그래머](http://book.naver.com/bookdb/book_detail.nhn?bid=6082175)  
 [파이썬 완벽 가이드](http://book.naver.com/bookdb/book_detail.nhn?bid=6872340)  
+[토비의 스프링 3](http://book.naver.com/bookdb/book_detail.nhn?bid=6330335) (2010.10~)  
 
 
 ## 읽을 책 (우선순위 순!)
