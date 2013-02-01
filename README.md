@@ -8,7 +8,6 @@
 ## 읽고 있는 책
 
 [열혈 C 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=6393451)  
-[Node.js 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=6818977)  
 [게임프로그래머를 위한 기초 수학과 물리](http://book.naver.com/bookdb/book_detail.nhn?bid=1486094)  
 
 
@@ -74,7 +73,8 @@
 [초고속 웹사이트 구축(Even Faster Websites)](http://book.naver.com/bookdb/book_detail.nhn?bid=6259017) (2010.10)  
 [자바스크립트 완벽가이드](http://book.naver.com/bookdb/book_detail.nhn?bid=4561033) (2010.06)  
 [JavaScript Patterns](http://book.naver.com/bookdb/book_detail.nhn?bid=6618965) (2011.09)  
-[프로 자바스크립트 테크닉](http://book.naver.com/bookdb/book_detail.nhn?bid=4728986) (2009.11)  
+[프로 자바스크립트 테크닉](http://book.naver.com/bookdb/book_detail.nhn?bid=4728986) (2009.11) 
+[Node.js 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=6818977)(2013.01)  
 [고성능 자바스크립트 그래픽스](http://book.naver.com/bookdb/book_detail.nhn?bid=6976207) (2012.09)  
 [Ajax 디자인패턴](http://book.naver.com/bookdb/book_detail.nhn?bid=2955225) (2009.09)  
 
