@@ -15,7 +15,6 @@
 
 [xUnit 테스트 패턴](http://book.naver.com/bookdb/book_detail.nhn?bid=6241917)  
 [C언어로 배우는 알고리즘 입문](http://book.naver.com/bookdb/book_detail.nhn?bid=1478608)  
-[웹개발자를 위한 웹을 지탱하는 기술](http://book.naver.com/bookdb/book_detail.nhn?bid=6646793)  
 [능률적인 프로그래머](http://book.naver.com/bookdb/book_detail.nhn?bid=6082175)  
 [HTTP: The Definitive Guide](http://book.naver.com/bookdb/book_detail.nhn?bid=994839)  
 [프로그래밍 루비](http://book.naver.com/bookdb/book_detail.nhn?bid=2625527)  
@@ -59,6 +58,7 @@
 [클린 코드](http://book.naver.com/bookdb/book_detail.nhn?bid=6248623) (2010.06)  
 [조엘 온 소프트웨어](http://book.naver.com/bookdb/book_detail.nhn?bid=1528741) (2010.05)  
 [조엘 온 소프트웨어를 넘어서](http://book.naver.com/bookdb/book_detail.nhn?bid=6099079) (2010.06)  
+[웹개발자를 위한 웹을 지탱하는 기술](http://book.naver.com/bookdb/book_detail.nhn?bid=6646793)(2013.02.04)  
 [실용주의 사고와 학습](http://book.naver.com/bookdb/book_detail.nhn?bid=6261704) (2010.08)  
 [익스트림 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=2497945) (2009.05)  
 [UML 실전에서는 이것만 쓴다](http://book.naver.com/bookdb/book_detail.nhn?bid=6439362) (2011.03)  
