@@ -28,6 +28,7 @@
 [켄트벡의 구현패턴](http://book.naver.com/bookdb/book_detail.nhn?bid=4392142)  
 [패턴을 활용한 리팩터링](http://book.naver.com/bookdb/book_detail.nhn?bid=6471623)  
 [레거시 코드 활용 전략](http://book.naver.com/bookdb/book_detail.nhn?bid=4914383)  
+[읽기 좋은 자바스크립트 코딩 기법](http://book.naver.com/bookdb/book_detail.nhn?bid=7112528)  
 [열혈 TCP/IP 소켓 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=6190577)  
 [실용주의 프로그래머](http://book.naver.com/bookdb/book_detail.nhn?bid=1587963)  
 [PROFESSIONAL 소프트웨어 개발](http://book.naver.com/bookdb/book_detail.nhn?bid=132593)  
