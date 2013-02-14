@@ -74,7 +74,7 @@
 [초고속 웹사이트 구축(Even Faster Websites)](http://book.naver.com/bookdb/book_detail.nhn?bid=6259017) (2010.10)  
 [자바스크립트 완벽가이드](http://book.naver.com/bookdb/book_detail.nhn?bid=4561033) (2010.06)  
 [JavaScript Patterns](http://book.naver.com/bookdb/book_detail.nhn?bid=6618965) (2011.09)  
-[읽기 좋은 자바스크립트 코딩 기법](http://book.naver.com/bookdb/book_detail.nhn?bid=7112528)  
+[읽기 좋은 자바스크립트 코딩 기법](http://book.naver.com/bookdb/book_detail.nhn?bid=7112528) (2013.02)  
 [프로 자바스크립트 테크닉](http://book.naver.com/bookdb/book_detail.nhn?bid=4728986) (2009.11)  
 [Node.js 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=6818977)(2013.01)  
 [고성능 자바스크립트 그래픽스](http://book.naver.com/bookdb/book_detail.nhn?bid=6976207) (2012.09)  
