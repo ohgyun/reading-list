@@ -6,8 +6,6 @@
 
 
 ## 읽고 있는 책
-
-[열혈 C 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=6393451)  
 [게임프로그래머를 위한 기초 수학과 물리](http://book.naver.com/bookdb/book_detail.nhn?bid=1486094)  
 
 
@@ -16,20 +14,19 @@
 [xUnit 테스트 패턴](http://book.naver.com/bookdb/book_detail.nhn?bid=6241917)  
 [C언어로 배우는 알고리즘 입문](http://book.naver.com/bookdb/book_detail.nhn?bid=1478608)  
 [능률적인 프로그래머](http://book.naver.com/bookdb/book_detail.nhn?bid=6082175)  
-[HTTP: The Definitive Guide](http://book.naver.com/bookdb/book_detail.nhn?bid=994839)  
 [프로그래밍 루비](http://book.naver.com/bookdb/book_detail.nhn?bid=2625527)  
 [파이썬 완벽 가이드](http://book.naver.com/bookdb/book_detail.nhn?bid=6872340)  
-[토비의 스프링 3](http://book.naver.com/bookdb/book_detail.nhn?bid=6330335) (2010.10~)  
 
 
 ## 읽을 책 (우선순위 순!)
 
 [Effective JavaScript](http://www.amazon.com/Effective-JavaScript-Specific-Development-ebook/dp/B00AC1RP14/ref=tmm_kin_title_0)  
+[열혈 자료구조](http://book.naver.com/bookdb/book_detail.nhn?bid=6809127)  
+[열혈 TCP/IP 소켓 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=6190577)  
 [프로그래머로 사는 법](http://book.naver.com/bookdb/book_detail.nhn?bid=7010768)  
 [켄트벡의 구현패턴](http://book.naver.com/bookdb/book_detail.nhn?bid=4392142)  
 [패턴을 활용한 리팩터링](http://book.naver.com/bookdb/book_detail.nhn?bid=6471623)  
 [레거시 코드 활용 전략](http://book.naver.com/bookdb/book_detail.nhn?bid=4914383)  
-[열혈 TCP/IP 소켓 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=6190577)  
 [실용주의 프로그래머](http://book.naver.com/bookdb/book_detail.nhn?bid=1587963)  
 [PROFESSIONAL 소프트웨어 개발](http://book.naver.com/bookdb/book_detail.nhn?bid=132593)  
 [CODE Complete2](http://book.naver.com/bookdb/book_detail.nhn?bid=1535901)  
@@ -50,6 +47,8 @@
 [Why We Buy](http://book.naver.com/bookdb/book_detail.nhn?bid=5322457)  
 [자바 세상의 빌드를 이끄는 메이븐](http://book.naver.com/bookdb/book_detail.nhn?bid=6600936)  
 [뇌를 자극하는 프로그래밍 원리](http://book.naver.com/bookdb/book_detail.nhn?bid=3084646)  
+[HTTP: The Definitive Guide](http://book.naver.com/bookdb/book_detail.nhn?bid=994839) (보류)  
+[토비의 스프링 3](http://book.naver.com/bookdb/book_detail.nhn?bid=6330335) (보류)  
 
 
 ## 읽은 책 (날짜 순)
@@ -79,6 +78,10 @@
 [Node.js 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=6818977)(2013.01)  
 [고성능 자바스크립트 그래픽스](http://book.naver.com/bookdb/book_detail.nhn?bid=6976207) (2012.09)  
 [Ajax 디자인패턴](http://book.naver.com/bookdb/book_detail.nhn?bid=2955225) (2009.09)  
+
+
+### 기타 언어
+[열혈 C 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=6393451) (2013.02)  
 
 
 ### 사용성
