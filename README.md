@@ -6,6 +6,7 @@
 
 
 ## 읽고 있는 책
+[자바스크립트 완벽가이드(6/E)](http://book.naver.com/bookdb/book_detail.nhn?bid=7121555)  
 [게임프로그래머를 위한 기초 수학과 물리](http://book.naver.com/bookdb/book_detail.nhn?bid=1486094)  
 
 
@@ -20,7 +21,7 @@
 
 ## 읽을 책 (우선순위 순!)
 
-[Effective JavaScript](http://www.amazon.com/Effective-JavaScript-Specific-Development-ebook/dp/B00AC1RP14/ref=tmm_kin_title_0)  
+[Web Audio API](http://www.amazon.com/gp/product/1449332684/)  
 [열혈 자료구조](http://book.naver.com/bookdb/book_detail.nhn?bid=6809127)  
 [열혈 TCP/IP 소켓 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=6190577)  
 [프로그래머로 사는 법](http://book.naver.com/bookdb/book_detail.nhn?bid=7010768)  
@@ -51,7 +52,7 @@
 [토비의 스프링 3](http://book.naver.com/bookdb/book_detail.nhn?bid=6330335) (보류)  
 
 
-## 읽은 책 (날짜 순)
+## 읽은 책 (개인적인 평점순)
 
 ### 개발 일반
 [리팩토링](http://book.naver.com/bookdb/book_detail.nhn?bid=7047630) (2008.05)  
@@ -71,7 +72,8 @@
 ### 자바스크립트
 [High Performance JavaScript](http://book.naver.com/bookdb/book_detail.nhn?bid=6683307) (2010.12)  
 [초고속 웹사이트 구축(Even Faster Websites)](http://book.naver.com/bookdb/book_detail.nhn?bid=6259017) (2010.10)  
-[자바스크립트 완벽가이드](http://book.naver.com/bookdb/book_detail.nhn?bid=4561033) (2010.06)  
+[Effective JavaScript](http://www.amazon.com/Effective-JavaScript-Specific-Development-ebook/dp/B00AC1RP14/ref=tmm_kin_title_0) (2013.03)  
+[자바스크립트 완벽가이드(5/E)](http://book.naver.com/bookdb/book_detail.nhn?bid=4561033) (2010.06)  
 [JavaScript Patterns](http://book.naver.com/bookdb/book_detail.nhn?bid=6618965) (2011.09)  
 [읽기 좋은 자바스크립트 코딩 기법](http://book.naver.com/bookdb/book_detail.nhn?bid=7112528) (2013.02)  
 [프로 자바스크립트 테크닉](http://book.naver.com/bookdb/book_detail.nhn?bid=4728986) (2009.11)  
@@ -80,7 +82,8 @@
 [Ajax 디자인패턴](http://book.naver.com/bookdb/book_detail.nhn?bid=2955225) (2009.09)  
 
 
-### 기타 언어
+### 기타 언어 또는 도구
+[Pro git](http://git-scm.com/book) (2012.02)(2013.03)  
 [열혈 C 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=6393451) (2013.02)  
 
 
