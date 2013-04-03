@@ -22,6 +22,7 @@
 ## 읽을 책 (우선순위 순!)
 
 [Web Audio API](http://www.amazon.com/gp/product/1449332684/)  
+[The Little Book on CoffeeScript](http://www.amazon.com/The-Little-Book-CoffeeScript-ebook/dp/B006ZYZCRQ/ref=pd_rhf_dp_p_t_2_28WT)  
 [열혈 자료구조](http://book.naver.com/bookdb/book_detail.nhn?bid=6809127)  
 [열혈 TCP/IP 소켓 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=6190577)  
 [프로그래머로 사는 법](http://book.naver.com/bookdb/book_detail.nhn?bid=7010768)  
