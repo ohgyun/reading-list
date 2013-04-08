@@ -6,8 +6,10 @@
 
 
 ## 읽고 있는 책
+
 [자바스크립트 완벽가이드(6/E)](http://book.naver.com/bookdb/book_detail.nhn?bid=7121555)  
-[게임프로그래머를 위한 기초 수학과 물리](http://book.naver.com/bookdb/book_detail.nhn?bid=1486094)  
+[조엘 온 소프트웨어](http://book.naver.com/bookdb/book_detail.nhn?bid=1528741) (2010.05)  
+[HTML5 Canvas](http://book.naver.com/bookdb/book_detail.nhn?bid=6806523)  
 
 
 ## 읽다만 책 (반성하고 마무리해야함)
@@ -17,6 +19,7 @@
 [능률적인 프로그래머](http://book.naver.com/bookdb/book_detail.nhn?bid=6082175)  
 [프로그래밍 루비](http://book.naver.com/bookdb/book_detail.nhn?bid=2625527)  
 [파이썬 완벽 가이드](http://book.naver.com/bookdb/book_detail.nhn?bid=6872340)  
+[게임프로그래머를 위한 기초 수학과 물리](http://book.naver.com/bookdb/book_detail.nhn?bid=1486094)  
 
 
 ## 읽을 책 (우선순위 순!)
@@ -31,7 +34,6 @@
 [실용주의 프로그래머](http://book.naver.com/bookdb/book_detail.nhn?bid=1587963)  
 [PROFESSIONAL 소프트웨어 개발](http://book.naver.com/bookdb/book_detail.nhn?bid=132593)  
 [CODE Complete2](http://book.naver.com/bookdb/book_detail.nhn?bid=1535901)  
-[HTML5 Canvas](http://book.naver.com/bookdb/book_detail.nhn?bid=6806523)  
 [실용주의 디버깅](http://book.naver.com/bookdb/book_detail.nhn?bid=6298411)  
 [리팩토링:루비 에디션](http://book.naver.com/bookdb/book_detail.nhn?bid=6740199)  
 [WebGL 3D 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=7042029)  
@@ -56,7 +58,6 @@
 ### 개발 일반
 [리팩토링](http://book.naver.com/bookdb/book_detail.nhn?bid=7047630) (2008.05)  
 [클린 코드](http://book.naver.com/bookdb/book_detail.nhn?bid=6248623) (2010.06)  
-[조엘 온 소프트웨어](http://book.naver.com/bookdb/book_detail.nhn?bid=1528741) (2010.05)  
 [조엘 온 소프트웨어를 넘어서](http://book.naver.com/bookdb/book_detail.nhn?bid=6099079) (2010.06)  
 [웹개발자를 위한 웹을 지탱하는 기술](http://book.naver.com/bookdb/book_detail.nhn?bid=6646793)(2013.02.04)  
 [실용주의 사고와 학습](http://book.naver.com/bookdb/book_detail.nhn?bid=6261704) (2010.08)  
@@ -80,7 +81,7 @@
 [Node.js 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=6818977) (2013.01)  
 [고성능 자바스크립트 그래픽스](http://book.naver.com/bookdb/book_detail.nhn?bid=6976207) (2012.09)  
 [Ajax 디자인패턴](http://book.naver.com/bookdb/book_detail.nhn?bid=2955225) (2009.09)  
-[The Little Book on CoffeeScript](http://www.amazon.com/The-Little-Book-CoffeeScript-ebook/dp/B006ZYZCRQ/ref=pd_rhf_dp_p_t_2_28WT)(2013.04)  
+[The Little Book on CoffeeScript](http://www.amazon.com/The-Little-Book-CoffeeScript-ebook/dp/B006ZYZCRQ/ref=pd_rhf_dp_p_t_2_28WT) (2013.04)  
 
 
 ### 기타 언어 또는 도구
