@@ -22,7 +22,6 @@
 ## 읽을 책 (우선순위 순!)
 
 [Web Audio API](http://www.amazon.com/gp/product/1449332684/)  
-[The Little Book on CoffeeScript](http://www.amazon.com/The-Little-Book-CoffeeScript-ebook/dp/B006ZYZCRQ/ref=pd_rhf_dp_p_t_2_28WT)  
 [열혈 자료구조](http://book.naver.com/bookdb/book_detail.nhn?bid=6809127)  
 [열혈 TCP/IP 소켓 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=6190577)  
 [프로그래머로 사는 법](http://book.naver.com/bookdb/book_detail.nhn?bid=7010768)  
@@ -81,6 +80,7 @@
 [Node.js 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=6818977) (2013.01)  
 [고성능 자바스크립트 그래픽스](http://book.naver.com/bookdb/book_detail.nhn?bid=6976207) (2012.09)  
 [Ajax 디자인패턴](http://book.naver.com/bookdb/book_detail.nhn?bid=2955225) (2009.09)  
+[The Little Book on CoffeeScript](http://www.amazon.com/The-Little-Book-CoffeeScript-ebook/dp/B006ZYZCRQ/ref=pd_rhf_dp_p_t_2_28WT)(2013.04)  
 
 
 ### 기타 언어 또는 도구
