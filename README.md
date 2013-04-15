@@ -8,7 +8,6 @@
 ## 읽고 있는 책
 
 [자바스크립트 완벽가이드(6/E)](http://book.naver.com/bookdb/book_detail.nhn?bid=7121555)  
-[조엘 온 소프트웨어](http://book.naver.com/bookdb/book_detail.nhn?bid=1528741) (2010.05)  
 [HTML5 Canvas](http://book.naver.com/bookdb/book_detail.nhn?bid=6806523)  
 
 
@@ -24,6 +23,7 @@
 
 ## 읽을 책 (우선순위 순!)
 
+[The C Programming Language (2nd Edition)](http://www.amazon.com/dp/B009ZUZ9FW/ref=rdr_kindle_ext_tmb)  
 [Web Audio API](http://www.amazon.com/gp/product/1449332684/)  
 [열혈 자료구조](http://book.naver.com/bookdb/book_detail.nhn?bid=6809127)  
 [열혈 TCP/IP 소켓 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=6190577)  
@@ -56,10 +56,11 @@
 ## 읽은 책 (개인적인 평점순)
 
 ### 개발 일반
+[조엘 온 소프트웨어](http://book.naver.com/bookdb/book_detail.nhn?bid=1528741) (2010.05) (2013.04)  
 [리팩토링](http://book.naver.com/bookdb/book_detail.nhn?bid=7047630) (2008.05)  
 [클린 코드](http://book.naver.com/bookdb/book_detail.nhn?bid=6248623) (2010.06)  
 [조엘 온 소프트웨어를 넘어서](http://book.naver.com/bookdb/book_detail.nhn?bid=6099079) (2010.06)  
-[웹개발자를 위한 웹을 지탱하는 기술](http://book.naver.com/bookdb/book_detail.nhn?bid=6646793)(2013.02)  
+[웹개발자를 위한 웹을 지탱하는 기술](http://book.naver.com/bookdb/book_detail.nhn?bid=6646793) (2013.02)  
 [실용주의 사고와 학습](http://book.naver.com/bookdb/book_detail.nhn?bid=6261704) (2010.08)  
 [익스트림 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=2497945) (2009.05)  
 [UML 실전에서는 이것만 쓴다](http://book.naver.com/bookdb/book_detail.nhn?bid=6439362) (2011.03)  
